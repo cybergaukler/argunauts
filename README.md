@@ -1,1 +1,2 @@
-# argunauts
+# argunauts '
+The goal of argunauts is
